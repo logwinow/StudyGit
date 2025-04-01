@@ -58,22 +58,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Name</value>
+  <data name="DisplayName" xml:space="preserve">
+    <value>Внешнее обращение</value>
   </data>
-  <data name="Action_LinkDocument" xml:space="preserve">
-    <value>Link document</value>
+  <data name="AccusativeDisplayName" xml:space="preserve">
+    <value>Внешнее обращения</value>
   </data>
-  <data name="Action_LinkDocumentDescription" xml:space="preserve">
-    <value>Link document</value>
+  <data name="CollectionDisplayName" xml:space="preserve">
+    <value>Внешние обращения</value>
   </data>
-  <data name="Action_LinkDocumentHint" xml:space="preserve">
-    <value>Link document</value>
+  <data name="Property_Author" xml:space="preserve">
+    <value>Автор</value>
   </data>
-  <data name="Action_LinkDocumentConfirmationMessage" xml:space="preserve">
+  <data name="Property_Result" xml:space="preserve">
+    <value>Результат</value>
+  </data>
+  <data name="Resource_6342fce3df0e47e6a03bf2a27a85df52" xml:space="preserve">
     <value />
   </data>
-  <data name="Action_LinkDocumentConfirmationDescription" xml:space="preserve">
+  <data name="Control_6342fce3df0e47e6a03bf2a27a85df52_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_c8d3a133bbee49ccb601797b7f8a5784" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_4d06fb9f6a864861a17a863d00b30921" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_4d06fb9f6a864861a17a863d00b30921_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_37032edf8a3f4952aac357e26e78a2f6" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_dce85aad45574e45a0e72524b4dd2a6b" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_dce85aad45574e45a0e72524b4dd2a6b_EmptyText" xml:space="preserve">
     <value />
   </data>
 </root>
