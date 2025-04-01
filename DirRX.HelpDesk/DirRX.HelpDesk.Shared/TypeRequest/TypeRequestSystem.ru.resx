@@ -67,4 +67,10 @@
   <data name="Property_Code" xml:space="preserve">
     <value>Код</value>
   </data>
+  <data name="Property_Responsible">
+    <value>Ответственный</value>
+  </data>
+  <data name="Property_Note">
+    <value>Примечание</value>
+  </data>
 </root>
